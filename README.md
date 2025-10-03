@@ -1,2 +1,2 @@
 # Git-Course
-##*-For Lab01 Task*.
+## *For Lab01 Task*.
